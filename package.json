@@ -1,0 +1,18 @@
+{
+    "name": "svg",
+    "version": "1.0.0",
+    "description": "create logos with shapes and colors",
+    "main": "index.js",
+    "directories": {
+        "lib": "test"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Devin Belle",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest": "^29.7.0"
+    }
+}
